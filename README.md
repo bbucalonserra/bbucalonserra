@@ -17,7 +17,8 @@ Find my daily technologies below.
 ### Machine Learning
 1. [Delayed Deliveries](https://github.com/bbucalonserra/machine_learning_and_analytics)
 
-   Method: Supervised Classification
+   **Method: Supervised Classification**
+   
    One of the major problems faced by delivery companies is DELAYED DELIVERIES. **In light of this, the idea emerged to create a predictive analysis using machine learning models to anticipate whether a delivery will be delayed or not based on the data collected from orders.** There are no solid premises regarding the reasons for delays, only that, given that the datasets used are in a snowflake schema, a filter was applied to analyze only motorcyclists, always in the food segment, with delivery status always marked as delivered and order status as finalized.
 
 
@@ -26,6 +27,8 @@ Find my daily technologies below.
 
 1. [Woman Violance](https://github.com/bbucalonserra/data_analysis_and_best_practices)
 
+   **Method: Exploratory Data Analysis**
+   
    The incidence of violence against women in the state of Minas Gerais represents a significant social concern. The lack of detailed analysis of available data hinders the understanding of patterns, critical areas, and underlying factors of this phenomenon, thereby impeding the implementation of targeted and effective strategies to combat this issue. **In light of this, the idea emerged to create a exploratory data analysis using data from the State of Minas Gerais from Brazil.**
 
 
@@ -33,6 +36,8 @@ Find my daily technologies below.
 ### Data Engineering
 
 1. [Brazilian Education in Indigenous Territories](https://github.com/bbucalonserra/data_engineering)
+
+   **Method: Medallion Architecture in Data Lake using Azure**
 
    Education is a crucial aspect of human and social development, playing a fundamental role in creating more just and egalitarian societies. Brazil, with its diversified cultural composition and numerous ethnic groups, including indigenous communities that contribute significantly to the nation's identity, requires special consideration for indigenous education. It is important to prioritize the preservation of cultural traditions and the empowerment of native communities. Due of this, **it will be built a data lake environemnt using Azure using the medallion architecture, performing ETL and the final analysis.**
 
