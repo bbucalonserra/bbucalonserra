@@ -24,8 +24,8 @@ Find my daily technologies below.
 2. [Body Fat Prediction](https://github.com/bbucalonserra/body-fat-prediction)
 
    **Method: Supervised Linear Regression**
-   
-  Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring. 
+
+    Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring. 
   
 
 ### Data Analytics
