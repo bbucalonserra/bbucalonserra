@@ -14,7 +14,7 @@ Find my daily technologies below.
 
 ## Main Projects
 
-### Machine Learning
+### Statistical Modeling
 1. [Delayed Deliveries](https://github.com/bbucalonserra/machine_learning_and_analytics)
 
    **Method: Supervised Classification**
@@ -28,7 +28,7 @@ Find my daily technologies below.
     Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring. 
   
 
-### Data Analytics
+### Advanced Analytics
 
 1. [Woman Violance](https://github.com/bbucalonserra/data_analysis_and_best_practices)
 
