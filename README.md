@@ -17,13 +17,13 @@ Find my daily technologies below.
 ### Statistical Modeling
 1. [Delayed Deliveries](https://github.com/bbucalonserra/machine_learning_and_analytics)
 
-   **Method: Supervised Classification**
+   **Method: Machine Learning for Supervised Classification**
    
    One of the major problems faced by delivery companies is DELAYED DELIVERIES. **In light of this, the idea emerged to create a predictive analysis using machine learning models to anticipate whether a delivery will be delayed or not based on the data collected from orders.** There are no solid premises regarding the reasons for delays, only that, given that the datasets used are in a snowflake schema, a filter was applied to analyze only motorcyclists, always in the food segment, with delivery status always marked as delivered and order status as finalized.
 
 2. [Body Fat Prediction](https://github.com/bbucalonserra/body-fat-prediction)
 
-   **Method: Supervised Linear Regression**
+   **Method: Linear Regression Inference**
 
     Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring. 
   
