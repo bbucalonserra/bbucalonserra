@@ -31,7 +31,7 @@ Find my daily technologies below.
    The incidence of violence against women in the state of Minas Gerais represents a significant social concern. The lack of detailed analysis of available data hinders the understanding of patterns, critical areas, and underlying factors of this phenomenon, thereby impeding the implementation of targeted and effective strategies to combat this issue. **In light of this, the idea emerged to create a exploratory data analysis using data from the State of Minas Gerais from Brazil.**
    
 
-   2. [Body Fat Prediction](https://github.com/bbucalonserra/body-fat-prediction)
+2. [Body Fat Prediction](https://github.com/bbucalonserra/body-fat-prediction)
 
    **Method: Exploratory Data Analysis focused in Linear Regression Inference**
 
