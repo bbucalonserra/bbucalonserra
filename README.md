@@ -27,6 +27,9 @@ Find my daily technologies below.
    
   The objective of this predictive model is to estimate the number of days each user is expected to place orders in the upcoming month. By forecasting user behavior at this level of granularity, the logistics department can better anticipate demand patterns, optimize resource allocation, and streamline operational efficiency. This model serves as a critical tool for enhancing the accuracy of demand planning, ensuring timely inventory management, and reducing potential bottlenecks in the supply chain. Through advanced predictive analytics, we aim to provide actionable insights to support decision-making and drive a more proactive logistics strategy.
 
+3. [Demand Prediction](https://github.com/bbucalonserra/demand-forecasting-and-prediction)
+The primary objective of this analysis is to predict demand for the upcoming weeks using advanced time series forecasting techniques. By leveraging historical data and identifying trends, seasonality, and patterns, the model aims to provide accurate demand projections. These insights are crucial for optimizing inventory management, improving supply chain efficiency, and ensuring that resources are allocated effectively to meet future requirements. This predictive approach empowers businesses to adopt a proactive strategy, minimize waste, and enhance customer satisfaction by staying ahead of demand fluctuations.
+
   
 ### Advanced Analytics
 
