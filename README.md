@@ -15,16 +15,19 @@ Find my daily technologies below.
 ## Main Projects
 
 ### Data Science
-1. [Delayed Deliveries Prediction](https://github.com/bbucalonserra/machine_learning_and_analytics)
+1. [Delayed Deliveries Prediction](https://github.com/bbucalonserra/delivery-delay-prediction)
 
-   **Method: Machine Learning for Supervised Classification**
+   **Algorithm: Classification - Decision Tree**
    
    One of the major problems faced by delivery companies is DELAYED DELIVERIES. **In light of this, the idea emerged to create a predictive analysis using machine learning models to anticipate whether a delivery will be delayed or not based on the data collected from orders.** There are no solid premises regarding the reasons for delays, only that, given that the datasets used are in a snowflake schema, a filter was applied to analyze only motorcyclists, always in the food segment, with delivery status always marked as delivered and order status as finalized.
+
+2. [Order Days Prediction](https://github.com/bbucalonserra/order-days-prediction)
+  The objective of this predictive model is to estimate the number of days each user is expected to place orders in the upcoming month. By forecasting user behavior at this level of granularity, the logistics department can better anticipate demand patterns, optimize resource allocation, and streamline operational efficiency. This model serves as a critical tool for enhancing the accuracy of demand planning, ensuring timely inventory management, and reducing potential bottlenecks in the supply chain. Through advanced predictive analytics, we aim to provide actionable insights to support decision-making and drive a more proactive logistics strategy.
 
   
 ### Advanced Analytics
 
-1. [Woman Violance Analysis](https://github.com/bbucalonserra/data_analysis_and_best_practices)
+1. [Woman Violance Analysis](https://github.com/bbucalonserra/woman-violence-analysis)
 
    **Method: Exploratory Data Analysis**
    
@@ -40,7 +43,7 @@ Find my daily technologies below.
 
 ### Cloud & Data Engineering
 
-1. [Brazilian Education in Indigenous Territories](https://github.com/bbucalonserra/data_engineering)
+1. [Azure Data Lake - Medallion Architecture](https://github.com/bbucalonserra/azure-data-lake)
 
    **Method: Medallion Architecture in Data Lake using Azure**
 
