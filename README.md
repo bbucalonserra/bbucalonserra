@@ -22,6 +22,9 @@ Find my daily technologies below.
    One of the major problems faced by delivery companies is DELAYED DELIVERIES. **In light of this, the idea emerged to create a predictive analysis using machine learning models to anticipate whether a delivery will be delayed or not based on the data collected from orders.** There are no solid premises regarding the reasons for delays, only that, given that the datasets used are in a snowflake schema, a filter was applied to analyze only motorcyclists, always in the food segment, with delivery status always marked as delivered and order status as finalized.
 
 2. [Order Days Prediction](https://github.com/bbucalonserra/order-days-prediction)
+   
+   **Algorithm: Regression - XGBoost Reressor**
+   
   The objective of this predictive model is to estimate the number of days each user is expected to place orders in the upcoming month. By forecasting user behavior at this level of granularity, the logistics department can better anticipate demand patterns, optimize resource allocation, and streamline operational efficiency. This model serves as a critical tool for enhancing the accuracy of demand planning, ensuring timely inventory management, and reducing potential bottlenecks in the supply chain. Through advanced predictive analytics, we aim to provide actionable insights to support decision-making and drive a more proactive logistics strategy.
 
   
