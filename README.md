@@ -14,7 +14,7 @@ Find my daily technologies below.
 
 ## Main Projects
 
-### Statistical Modeling
+### Data Science
 1. [Delayed Deliveries](https://github.com/bbucalonserra/machine_learning_and_analytics)
 
    **Method: Machine Learning for Supervised Classification**
