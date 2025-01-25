@@ -15,30 +15,30 @@ Find my daily technologies below.
 ## Main Projects
 
 ### Data Science
-1. [Delayed Deliveries](https://github.com/bbucalonserra/machine_learning_and_analytics)
+1. [Delayed Deliveries Prediction](https://github.com/bbucalonserra/machine_learning_and_analytics)
 
    **Method: Machine Learning for Supervised Classification**
    
    One of the major problems faced by delivery companies is DELAYED DELIVERIES. **In light of this, the idea emerged to create a predictive analysis using machine learning models to anticipate whether a delivery will be delayed or not based on the data collected from orders.** There are no solid premises regarding the reasons for delays, only that, given that the datasets used are in a snowflake schema, a filter was applied to analyze only motorcyclists, always in the food segment, with delivery status always marked as delivered and order status as finalized.
 
-2. [Body Fat Prediction](https://github.com/bbucalonserra/body-fat-prediction)
-
-   **Method: Linear Regression Inference**
-
-    Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring. 
   
-
 ### Advanced Analytics
 
-1. [Woman Violance](https://github.com/bbucalonserra/data_analysis_and_best_practices)
+1. [Woman Violance Analysis](https://github.com/bbucalonserra/data_analysis_and_best_practices)
 
    **Method: Exploratory Data Analysis**
    
    The incidence of violence against women in the state of Minas Gerais represents a significant social concern. The lack of detailed analysis of available data hinders the understanding of patterns, critical areas, and underlying factors of this phenomenon, thereby impeding the implementation of targeted and effective strategies to combat this issue. **In light of this, the idea emerged to create a exploratory data analysis using data from the State of Minas Gerais from Brazil.**
+   
+
+   2. [Body Fat Prediction](https://github.com/bbucalonserra/body-fat-prediction)
+
+   **Method: Exploratory Data Analysis focused in Linear Regression Inference**
+
+    Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring. 
 
 
-
-### Data Engineering
+### Cloud & Data Engineering
 
 1. [Brazilian Education in Indigenous Territories](https://github.com/bbucalonserra/data_engineering)
 
