@@ -19,42 +19,40 @@ Find my daily technologies below.
 
    **Algorithm: Classification - Decision Tree**
    
-  One of the major problems faced by delivery companies is DELAYED DELIVERIES. **In light of this, the idea emerged to create a predictive analysis using machine learning models to anticipate whether a delivery will be delayed or not based on the data collected from orders.** There are no solid premises regarding the reasons for delays, only that, given that the datasets used are in a snowflake schema, a filter was applied to analyze only motorcyclists, always in the food segment, with delivery status always marked as delivered and order status as finalized.
+   One of the major problems faced by delivery companies is DELAYED DELIVERIES. **In light of this, the idea emerged to create a predictive analysis using machine learning models to anticipate whether a delivery will be delayed or not based on the data collected from orders.** There are no solid premises regarding the reasons for delays, only that, given that the datasets used are in a snowflake schema, a filter was applied to analyze only motorcyclists, always in the food segment, with delivery status always marked as delivered and order status as finalized.
 
 2. [Order Days Prediction](https://github.com/bbucalonserra/order-days-prediction)
    
-   **Algorithm: Regression - XGBoost Reressor**
+   **Algorithm: Regression - XGBoost Regressor**
    
-  The objective of this predictive model is to estimate the number of days each user is expected to place orders in the upcoming month. By forecasting user behavior at this level of granularity, the logistics department can better anticipate demand patterns, optimize resource allocation, and streamline operational efficiency. This model serves as a critical tool for enhancing the accuracy of demand planning, ensuring timely inventory management, and reducing potential bottlenecks in the supply chain. Through advanced predictive analytics, we aim to provide actionable insights to support decision-making and drive a more proactive logistics strategy.
+   The objective of this predictive model is to estimate the number of days each user is expected to place orders in the upcoming month. By forecasting user behavior at this level of granularity, the logistics department can better anticipate demand patterns, optimize resource allocation, and streamline operational efficiency. This model serves as a critical tool for enhancing the accuracy of demand planning, ensuring timely inventory management, and reducing potential bottlenecks in the supply chain. Through advanced predictive analytics, we aim to provide actionable insights to support decision-making and drive a more proactive logistics strategy.
 
 3. [Demand Prediction](https://github.com/bbucalonserra/demand-forecasting-and-prediction)
 
-    **Algorithm: Regression - ARIMA**
+   **Algorithm: Regression - ARIMA**
+   
+   The primary objective of this analysis is to predict demand for the upcoming weeks using advanced time series forecasting techniques. By leveraging historical data and identifying trends, seasonality, and patterns, the model aims to provide accurate demand projections. These insights are crucial for optimizing inventory management, improving supply chain efficiency, and ensuring that resources are allocated effectively to meet future requirements. This predictive approach empowers businesses to adopt a proactive strategy, minimize waste, and enhance customer satisfaction by staying ahead of demand fluctuations.
 
-  The primary objective of this analysis is to predict demand for the upcoming weeks using advanced time series forecasting techniques. By leveraging historical data and identifying trends, seasonality, and patterns, the model aims to provide accurate demand projections. These insights are crucial for optimizing inventory management, improving supply chain efficiency, and ensuring that resources are allocated effectively to meet future requirements. This predictive approach empowers businesses to adopt a proactive strategy, minimize waste, and enhance customer satisfaction by staying ahead of demand fluctuations.
-
-  
 ### Advanced Analytics
 
-1. [Woman Violance Analysis](https://github.com/bbucalonserra/woman-violence-analysis)
+1. [Woman Violence Analysis](https://github.com/bbucalonserra/woman-violence-analysis)
 
    **Method: Exploratory Data Analysis**
    
-   The incidence of violence against women in the state of Minas Gerais represents a significant social concern. The lack of detailed analysis of available data hinders the understanding of patterns, critical areas, and underlying factors of this phenomenon, thereby impeding the implementation of targeted and effective strategies to combat this issue. **In light of this, the idea emerged to create a exploratory data analysis using data from the State of Minas Gerais from Brazil.**
+   The incidence of violence against women in the state of Minas Gerais represents a significant social concern. The lack of detailed analysis of available data hinders the understanding of patterns, critical areas, and underlying factors of this phenomenon, thereby impeding the implementation of targeted and effective strategies to combat this issue. **In light of this, the idea emerged to create an exploratory data analysis using data from the State of Minas Gerais from Brazil.**
    
-
 2. [Body Fat Prediction](https://github.com/bbucalonserra/body-fat-prediction)
 
-   **Method: Exploratory Data Analysis focused in Linear Regression Inference**
-
-    Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring. 
-
+   **Method: Exploratory Data Analysis focused on Linear Regression Inference**
+   
+   Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring.
 
 ### Cloud & Data Engineering
 
 1. [Azure Data Lake - Medallion Architecture](https://github.com/bbucalonserra/azure-data-lake)
 
    **Method: Medallion Architecture in Data Lake using Azure**
+   
+   Education is a crucial aspect of human and social development, playing a fundamental role in creating more just and egalitarian societies. Brazil, with its diversified cultural composition and numerous ethnic groups, including indigenous communities that contribute significantly to the nation's identity, requires special consideration for indigenous education. It is important to prioritize the preservation of cultural traditions and the empowerment of native communities. Due to this, **it will be built a data lake environment using Azure with the medallion architecture, performing ETL and the final analysis.**
 
-   Education is a crucial aspect of human and social development, playing a fundamental role in creating more just and egalitarian societies. Brazil, with its diversified cultural composition and numerous ethnic groups, including indigenous communities that contribute significantly to the nation's identity, requires special consideration for indigenous education. It is important to prioritize the preservation of cultural traditions and the empowerment of native communities. Due of this, **it will be built a data lake environemnt using Azure using the medallion architecture, performing ETL and the final analysis.**
 
