@@ -47,12 +47,15 @@ Find my daily technologies below.
    
    Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring.
 
-### Cloud & Data Engineering
+### ML Ops and Cloud
 
 1. [Azure Data Lake - Medallion Architecture](https://github.com/bbucalonserra/azure-data-lake)
 
    **Method: Medallion Architecture in Data Lake using Azure**
    
    Education is a crucial aspect of human and social development, playing a fundamental role in creating more just and egalitarian societies. Brazil, with its diversified cultural composition and numerous ethnic groups, including indigenous communities that contribute significantly to the nation's identity, requires special consideration for indigenous education. It is important to prioritize the preservation of cultural traditions and the empowerment of native communities. Due to this, **it will be built a data lake environment using Azure with the medallion architecture, performing ETL and the final analysis.**
-
+   
+2. [Machine Learning Operations](https://github.com/bbucalonserra/mlops-cycle)
+   **Method: ML Flow and Unitary Tests**
+   This repository demonstrates how to effectively use MLflow to manage and track machine learning experiments while exploring the full lifecycle of a data science project. It also highlights the use of unit tests to ensure code quality and reliability throughout the process.
 
