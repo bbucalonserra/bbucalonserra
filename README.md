@@ -73,5 +73,6 @@
    
 2. [Machine Learning Operations](https://github.com/bbucalonserra/mlops-cycle)
    **Method: ML Flow and Unitary Tests**
+   
    This repository demonstrates how to effectively use MLflow to manage and track machine learning experiments while exploring the full lifecycle of a data science project. It also highlights the use of unit tests to ensure code quality and reliability throughout the process.
 
