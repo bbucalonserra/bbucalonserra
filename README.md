@@ -2,30 +2,30 @@
 <h3 align="center">Holding a Bachelor's Degree in Engineering and a Master's Degree in Data Science and Analytics, I'm completely passionate about data science and analytics, with a particular focus on leveraging machine learning and data analytics to extract insights for business growth. My experience centers on multinational corporations with millions of employees, where I've tackled massive datasets comprising billions of rows. Currently, I'm employed at AB InBev, the world's largest brewer based in Belgium, overseeing iconic global brands such as Budweiser, Corona, and Stella Artois. In my role, I specialize in designing and deploying analytical and statistical models to unearth valuable insights, empowering informed decision-making across the organization.</h3>
 
 
-## Daily Technologies
-Find my daily technologies below.
+## Programming languages
 <div style="display:inline_block"><br/>
   <img align="center" alt="html15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="html15" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" />
   <img align="center" alt="html15" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img align="center" alt="html15" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img align="center" alt="html15" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img align="center" alt="html15" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+  <img align="center" alt="html15" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img align="center" alt="html15" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img align="center" alt="html15" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</div>
+
+
+## Technologies and applications:
+<div style="display:inline_block"><br/>
   <img align="center" alt="html15" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
   <img align="center" alt="html15" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
-  <img align="center" alt="html15" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img align="center" alt="html15" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
+  <img align="center" alt="html15" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img align="center" alt="html15" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />	
   <img align="center" alt="html15" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
   <img align="center" alt="html15" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
-  <img align="center" alt="html15" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img align="center" alt="html15" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img align="center" alt="html15" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit" />
-
-
-
-
-
-
-  	
+  <img align="center" alt="html15" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit" />	
 </div>
 
 ## Main Projects
