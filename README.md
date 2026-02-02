@@ -5,6 +5,7 @@
 ## Programming languages
 <div style="display:inline_block"><br/>
   <img align="center" alt="html15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="html15" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sqlite&logoColor=white" />
   <img align="center" alt="html15" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" />
   <img align="center" alt="html15" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img align="center" alt="html15" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -14,6 +15,7 @@
   <img align="center" alt="html15" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
   <img align="center" alt="html15" src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF" /> 
   <img align="center" alt="html15" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img align="center" alt="html15" src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
 
@@ -28,6 +30,7 @@
   <img align="center" alt="html15" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
   <img align="center" alt="html15" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit" />  
   <img align="center" alt="html15" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
+  <img align="center" alt="html15" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 </div>
 
 ## Projects
