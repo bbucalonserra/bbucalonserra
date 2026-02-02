@@ -23,11 +23,11 @@
   <img align="center" alt="html15" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
   <img align="center" alt="html15" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
   <img align="center" alt="html15" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img align="center" alt="html15" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />	
+  <img align="center" alt="html15" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />  
   <img align="center" alt="html15" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
   <img align="center" alt="html15" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
-  <img align="center" alt="html15" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit" />	
-  <img align="center" alt="html15" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />	
+  <img align="center" alt="html15" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit" />  
+  <img align="center" alt="html15" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
 </div>
 
 ## Projects
@@ -53,7 +53,7 @@
    *Tags: Inference, Machine Learning, Data Science, Python, Statistics, Mathematics*
 
    **Algorithm: Regression - ARIMA**
-   
+
    The primary objective of this analysis is to predict demand for the upcoming weeks using advanced time series forecasting techniques. By leveraging historical data and identifying trends, seasonality, and patterns, the model aims to provide accurate demand projections. These insights are crucial for optimizing inventory management, improving supply chain efficiency, and ensuring that resources are allocated effectively to meet future requirements. This predictive approach empowers businesses to adopt a proactive strategy, minimize waste, and enhance customer satisfaction by staying ahead of demand fluctuations.
 
 6. [Recommendation System](https://github.com/bbucalonserra/web-app-recommendation-system-ml-api)
@@ -61,10 +61,10 @@
    *Tags: FastAPI, MLOps, Software Engineering, Node, Express, HTML, CSS, EJS, Inference, Machine Learning, Data Science, Python, Statistics, Mathematics*
 
    **Algorithm: Classification - Logistics Regression**
-   
+
    The main focus of this project is to delivery a complete architecture for a Credit Recommendation System. It demonstrates the integration of a Machine Learning Inference Engine with a professional Web Infrastructure, applying **Node.js, Express.js, Machine Learning and REST API**, bridging the gap between Data Science modeling and Software Engineering.
 
-8. [Azure Data Lake - Medallion Architecture](https://github.com/bbucalonserra/azure-data-lake)
+9. [Azure Data Lake - Medallion Architecture](https://github.com/bbucalonserra/azure-data-lake)
 
    *Tags: Data Engineering, ETL, Cloud, Azure, Databricks, Azure Data Factory, Architecture, Software Engineering*
 
@@ -76,25 +76,22 @@
 
     *Tags: MLOps, Architecture, Software Engineering*
    
-   **Method: ML Flow and Unit Tests**
+    **Method: ML Flow and Unit Tests**
    
-   This repository demonstrates how to effectively use MLflow to manage and track machine learning experiments while exploring the full lifecycle of a data science project. It also highlights the use of unit tests to ensure code quality and reliability throughout the process.
+    This repository demonstrates how to effectively use MLflow to manage and track machine learning experiments while exploring the full lifecycle of a data science project. It also highlights the use of unit tests to ensure code quality and reliability throughout the process.
 
 11. [Body Fat Prediction](https://github.com/bbucalonserra/body-fat-prediction)
 
     *Tags: Inference, Machine Learning, Data Science, Python, Statistics, Mathematics*
     
-   **Method: Exploratory Data Analysis focused on Linear Regression Inference**
+    **Method: Exploratory Data Analysis focused on Linear Regression Inference**
    
-   Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring.
-
+    Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring.
 
 11. [Woman Violence Analysis](https://github.com/bbucalonserra/woman-violence-analysis)
 
     *Tags: Inference, Data Science, Python, Statistics, Mathematics*
 
-   **Method: Exploratory Data Analysis**
+    **Method: Exploratory Data Analysis**
    
-   The incidence of violence against women in the state of Minas Gerais represents a significant social concern. The lack of detailed analysis of available data hinders the understanding of patterns, critical areas, and underlying factors of this phenomenon, thereby impeding the implementation of targeted and effective strategies to combat this issue. **In light of this, the idea emerged to create an exploratory data analysis using data from the State of Minas Gerais from Brazil.**
-   
-
+    The incidence of violence against women in the state of Minas Gerais represents a significant social concern. The lack of detailed analysis of available data hinders the understanding of patterns, critical areas, and underlying factors of this phenomenon, thereby impeding the implementation of targeted and effective strategies to combat this issue. **In light of this, the idea emerged to create an exploratory data analysis using data from the State of Minas Gerais from Brazil.**
