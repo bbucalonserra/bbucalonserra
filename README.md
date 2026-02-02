@@ -30,9 +30,9 @@
   <img align="center" alt="html15" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />	
 </div>
 
-## Main Projects
+## Projects
 
-### Data Science
+### Data Science and Machine Learning Engineering (MLOPs)
 1. [Delayed Deliveries Prediction](https://github.com/bbucalonserra/delivery-delay-prediction)
 
    **Algorithm: Classification - Decision Tree**
@@ -51,31 +51,35 @@
    
    The primary objective of this analysis is to predict demand for the upcoming weeks using advanced time series forecasting techniques. By leveraging historical data and identifying trends, seasonality, and patterns, the model aims to provide accurate demand projections. These insights are crucial for optimizing inventory management, improving supply chain efficiency, and ensuring that resources are allocated effectively to meet future requirements. This predictive approach empowers businesses to adopt a proactive strategy, minimize waste, and enhance customer satisfaction by staying ahead of demand fluctuations.
 
-### Advanced Analytics
+4. [Recommendation System](https://github.com/bbucalonserra/web-app-recommendation-system-ml-api)
 
-1. [Woman Violence Analysis](https://github.com/bbucalonserra/woman-violence-analysis)
-
-   **Method: Exploratory Data Analysis**
+   **Algorithm: Classification - Logistics Regression**
    
-   The incidence of violence against women in the state of Minas Gerais represents a significant social concern. The lack of detailed analysis of available data hinders the understanding of patterns, critical areas, and underlying factors of this phenomenon, thereby impeding the implementation of targeted and effective strategies to combat this issue. **In light of this, the idea emerged to create an exploratory data analysis using data from the State of Minas Gerais from Brazil.**
-   
-2. [Body Fat Prediction](https://github.com/bbucalonserra/body-fat-prediction)
+   The main focus of this project is to delivery a complete architecture for a Credit Recommendation System. It demonstrates the integration of a Machine Learning Inference Engine with a professional Web Infrastructure, applying **Node.js, Express.js, Machine Learning and REST API**, bridging the gap between Data Science modeling and Software Engineering.
 
-   **Method: Exploratory Data Analysis focused on Linear Regression Inference**
-   
-   Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring.
-
-### ML Ops and Cloud
-
-1. [Azure Data Lake - Medallion Architecture](https://github.com/bbucalonserra/azure-data-lake)
+5. [Azure Data Lake - Medallion Architecture](https://github.com/bbucalonserra/azure-data-lake)
 
    **Method: Medallion Architecture in Data Lake using Azure**
    
    Education is a crucial aspect of human and social development, playing a fundamental role in creating more just and egalitarian societies. Brazil, with its diversified cultural composition and numerous ethnic groups, including indigenous communities that contribute significantly to the nation's identity, requires special consideration for indigenous education. It is important to prioritize the preservation of cultural traditions and the empowerment of native communities. Due to this, **it will be built a data lake environment using Azure with the medallion architecture, performing ETL and the final analysis.**
    
-2. [Machine Learning Operations](https://github.com/bbucalonserra/mlops-cycle)
+6. [Machine Learning Operations](https://github.com/bbucalonserra/mlops-cycle)
    
    **Method: ML Flow and Unit Tests**
    
    This repository demonstrates how to effectively use MLflow to manage and track machine learning experiments while exploring the full lifecycle of a data science project. It also highlights the use of unit tests to ensure code quality and reliability throughout the process.
+
+7. [Body Fat Prediction](https://github.com/bbucalonserra/body-fat-prediction)
+
+   **Method: Exploratory Data Analysis focused on Linear Regression Inference**
+   
+   Body fat prediction using machine learning (ML) aims to estimate body fat percentage based on individual characteristics. This process involves data collection, deeply analyzing the linear regression, and evaluating its performance to predict body fat, supporting health diagnostics and monitoring.
+
+
+8. [Woman Violence Analysis](https://github.com/bbucalonserra/woman-violence-analysis)
+
+   **Method: Exploratory Data Analysis**
+   
+   The incidence of violence against women in the state of Minas Gerais represents a significant social concern. The lack of detailed analysis of available data hinders the understanding of patterns, critical areas, and underlying factors of this phenomenon, thereby impeding the implementation of targeted and effective strategies to combat this issue. **In light of this, the idea emerged to create an exploratory data analysis using data from the State of Minas Gerais from Brazil.**
+   
 
