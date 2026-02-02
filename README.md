@@ -32,7 +32,6 @@
 
 ## Projects
 
-### Data Science and Machine Learning Engineering (MLOPs)
 1. [Delayed Deliveries Prediction](https://github.com/bbucalonserra/delivery-delay-prediction)
 
    **Algorithm: Classification - Decision Tree**
