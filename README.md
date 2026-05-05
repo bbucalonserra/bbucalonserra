@@ -98,3 +98,11 @@
     **Method: Exploratory Data Analysis**
    
     The incidence of violence against women in the state of Minas Gerais represents a significant social concern. The lack of detailed analysis of available data hinders the understanding of patterns, critical areas, and underlying factors of this phenomenon, thereby impeding the implementation of targeted and effective strategies to combat this issue. **In light of this, the idea emerged to create an exploratory data analysis using data from the State of Minas Gerais from Brazil.**
+
+
+## Computer Science
+1. [Algorithms and Data Structures](https://github.com/bbucalonserra/algorithms-and-data-structures)
+   Understanding and application of main algorithms and data structures of computer science:
+   * Bubble Sort
+   * Insertion Sort
+   * Selection Sort
