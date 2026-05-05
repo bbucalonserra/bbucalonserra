@@ -102,6 +102,7 @@
 
 ## Computer Science
 1. [Algorithms and Data Structures](https://github.com/bbucalonserra/algorithms-and-data-structures)
+   
    Understanding and application of main algorithms and data structures of computer science:
    * Bubble Sort
    * Insertion Sort
