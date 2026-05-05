@@ -33,7 +33,7 @@
   <img align="center" alt="html15" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 </div>
 
-## Projects
+## Data Science, Machine Learning Engineering and Artificial Intelligence
 
 1. [Delayed Deliveries Prediction](https://github.com/bbucalonserra/delivery-delay-prediction)
 
