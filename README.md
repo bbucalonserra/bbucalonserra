@@ -103,7 +103,13 @@
 ## Computer Science
 1. [Algorithms and Data Structures](https://github.com/bbucalonserra/algorithms-and-data-structures)
    
-   Understanding and application of main algorithms and data structures of computer science:
+   Understanding and application of main algorithms and data structures of computer science using **Python**:
    * Bubble Sort
    * Insertion Sort
    * Selection Sort
+   * Quick Sort
+   * Merge Sort
+
+2. [Web Development](https://github.com/bbucalonserra/web-development)
+
+   Developed a static web platform using **JavaScript (ES6+)**, **HTML** and **CSS** from scratch in order to link the gap between static assets and dynamic content delivery. Designed a centralized data architecture using JSON to drive site information, reducing code redundancy across multiple page modules. Moreover, applied a clean project hierarchy for optimized asset management and ensured cross functional consistency by translating design mockups into a production codebase.
