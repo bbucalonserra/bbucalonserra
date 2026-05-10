@@ -113,3 +113,10 @@
 2. [Web Development](https://github.com/bbucalonserra/web-development)
 
    Developed a static web platform using **JavaScript (ES6+)**, **HTML** and **CSS** from scratch in order to link the gap between static assets and dynamic content delivery. Designed a centralized data architecture using JSON to drive site information, reducing code redundancy across multiple page modules. Moreover, applied a clean project hierarchy for optimized asset management and ensured cross functional consistency by translating design mockups into a production codebase.
+
+3. [Object Oriented Programming](https://github.com/bbucalonserra/object_oriented_programming)
+   Developed several activies using **C++** to apply object oriented programming, developing small programs applying the four pillars of OOP:
+   * Abstraction
+   * Encapsulation
+   * Inheritance
+   * Polymofirsm
