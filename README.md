@@ -115,6 +115,7 @@
    Developed a static web platform using **JavaScript (ES6+)**, **HTML** and **CSS** from scratch in order to link the gap between static assets and dynamic content delivery. Designed a centralized data architecture using JSON to drive site information, reducing code redundancy across multiple page modules. Moreover, applied a clean project hierarchy for optimized asset management and ensured cross functional consistency by translating design mockups into a production codebase.
 
 3. [Linear Algebra](https://github.com/bbucalonserra/linear-algebra/blob/main/calculations.ipynb)
+   
    General calculations in order to undertand topics from linear algebra using **Numpy from Python**:
   * Vector Space Transformations: Programmatic exploration of basis changes, linear independence, and span within n-dimensional spaces.
   * Eigenvalues & Eigenvectors: Calculation and application of eigendecomposition and Singular Value Decomposition (SVD) for dimensionality reduction and data transformation.
@@ -123,11 +124,13 @@
    
 
 4. [Object Oriented Programming](https://github.com/bbucalonserra/object_oriented_programming)
+   
    Developed several activies using **C++** to apply object oriented programming, developing small programs applying the four pillars of OOP:
    * Abstraction
    * Encapsulation
    * Inheritance
    * Polymofirsm
 
-5. [Data Visualization, Modularisation and JavaScript](https://github.com/bbucalonserra/data-visualization-tool-js)
+6. [Data Visualization, Modularisation and JavaScript](https://github.com/bbucalonserra/data-visualization-tool-js)
+   
    Creationg of a dashboard using modularisation from Javascript (p5.js library).
