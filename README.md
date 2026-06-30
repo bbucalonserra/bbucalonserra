@@ -133,8 +133,8 @@
 
 6. [Data Visualization, Modularisation and JavaScript](https://github.com/bbucalonserra/data-visualization-tool-js)
    
-   Creationg of a dashboard using modularisation from Javascript (p5.js library).
+   Creationg of a dashboard using modularisation from **Javascript (p5.js library)**.
 
 7. [Postfix Calculator - Applying Classical Data Structures](https://github.com/bbucalonserra/postfix-calculator)
    
-   CL postfix calculator applying the core concepts and techniques of data structures (stack, queue, etc.)
+   CL postfix calculator applying the core concepts and techniques of data structures (stack, queue, etc.) in **JavaScript (node.js)**.
