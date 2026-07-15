@@ -65,7 +65,7 @@
 
    **Algorithm: Classification - Logistics Regression**
 
-   The main focus of this project is to delivery a complete architecture for a Credit Recommendation System. It demonstrates the integration of a Machine Learning Inference Engine with a professional Web Infrastructure, applying **Node.js, Express.js, Machine Learning and REST API**, bridging the gap between Data Science modeling and Software Engineering.
+   The main focus of this project is to delivery a complete architecture for a Credit Recommendation System. It demonstrates the integration of a Machine Learning with a Web Infrastructure, applying **Node.js, Express.js, Machine Learning and REST API**, linking the gap between Data Science modeling and Software Engineering.
 
 9. [Azure Data Lake - Medallion Architecture](https://github.com/bbucalonserra/azure-data-lake)
 
