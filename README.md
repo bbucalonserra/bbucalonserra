@@ -19,7 +19,7 @@
 </div>
 
 
-## Technologies and applications:
+## Technologies and Platforms:
 <div style="display:inline_block"><br/>
   <img align="center" alt="html15" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
   <img align="center" alt="html15" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
