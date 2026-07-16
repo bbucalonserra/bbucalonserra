@@ -138,3 +138,8 @@
 7. [Postfix Calculator - Applying Classical Data Structures](https://github.com/bbucalonserra/postfix-calculator)
    
    CL postfix calculator applying the core concepts and techniques of data structures (stack, queue, etc.) in **JavaScript (node.js)**.
+
+8. [Operational System with Python](https://github.com/bbucalonserra/python-system-core)
+   Understanding of use *os* and *sys* module from **Python** for system and operational system manipulation.
+
+
