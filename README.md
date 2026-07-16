@@ -140,6 +140,7 @@
    CL postfix calculator applying the core concepts and techniques of data structures (stack, queue, etc.) in **JavaScript (node.js)**.
 
 8. [Operational System with Python](https://github.com/bbucalonserra/python-system-core)
-   Understanding of use *os* and *sys* module from **Python** for system and operational system manipulation.
+
+    Understanding of use *os* and *sys* module from **Python** for system and operational system manipulation.
 
 
